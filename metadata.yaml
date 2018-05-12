@@ -1,0 +1,36 @@
+_repo: The-Letters-of-William-James-Vol.-II_38091
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38091-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+  editor:
+    agent_name: James, Henry
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '37161'
+    url: http://www.gutenberg.org/2009/agents/37161
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophers -- United States'
+- !lcsh 'Psychologists -- United States'
+- !lcsh 'James, William, 1842-1910'
+- !lcc 'B'
+- !lcsh 'Intellectuals -- United States'
+title: The Letters of William James, Vol. 2
+url: http://www.gutenberg.org/ebooks/38091
